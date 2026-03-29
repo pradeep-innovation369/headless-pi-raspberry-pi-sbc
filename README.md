@@ -3,5 +3,7 @@ hello guys, today i came up with raspberry pi zero 2w to show u how to connect i
 and inset ur SD card in pi and power it using 5v adaptor , and then in ur command promt 
 " type this : ssh username@hostname.local "
 then it shows up like yes or no , type yes and type the passowrd which u created in os installtion 
+here i used pi connect..if possible create aacount and use pi connect
+
 thank you
 
